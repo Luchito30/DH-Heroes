@@ -1,0 +1,102 @@
+@media screen and (max-width: 1000px){
+    #encabezado{
+        height: auto;
+    }
+    #contenido{
+        width: auto;
+    }
+    #barra_lateral{
+        display:none;
+    }
+}
+
+body
+    {
+    background: url(/img/fondo.jpg);  
+    background-size: auto;
+    }
+footer
+                {
+                    background-color: black;
+                    opacity: 0.8;
+                }    
+.titulo__blanco
+                {
+                    color: white;
+                }
+.titulo__rojito
+                {
+                    color: red;
+                }
+.titulo__img
+                {   
+                    position: relative;
+                    top: 15px;
+                    width: 100px;
+                    border-top-width: 10px;
+                    border-right-width: 10px;
+                    border-bottom-width: 10px;
+                    border-left-width: 10px;
+                    border-top-style: solid;
+                    border-right-style: solid;
+                    border-bottom-style: solid;
+                    border-left-style: solid;
+                    border-color: red;
+                    border-radius: 50%
+                }
+.titulo__home
+                {   
+                    position: relative;
+                    bottom: 45px;
+                    font-family: cursive; 
+                    font-size:75px ;
+                    text-align: center;
+                    text-decoration: underline red;
+                }
+.Body__img
+                {
+                width: 400px;
+                }
+.center__img
+                {
+                position: relative;
+                text-align: center; 
+                bottom: 70px;
+                }                
+.link__color
+                {
+                    color: white;
+                    font-size:40px ;
+                }
+.link__color2
+                {
+                    color: red;
+                    font-size: 40px;
+                }
+
+ul.navega li    {
+                    display: inline;
+                    padding-right: 0.5em;
+                    position: relative;
+                    left: 80px;
+                    bottom: 45px;
+                    background-color: black;
+                }
+.info
+                {
+                position: relative;
+                text-align: center;    
+                background-color:black ;
+                color: white;
+                font-family: cursive;
+                bottom: 70px;
+                }
+.copyright
+                {
+                text-align: center;
+                color: white;
+                font-size: 25px;
+                font-family: cursive;
+                }
+
+              
