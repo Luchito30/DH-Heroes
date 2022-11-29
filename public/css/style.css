@@ -9,7 +9,6 @@
         display:none;
     }
 }
-
 body
     {
     background: url(/img/fondo.jpg);  
@@ -17,11 +16,12 @@ body
     }
 .titulo__blanco
                 {
-                    color: white;
+                    font-family: 'Bungee Spice', cursive;
                 }
 .titulo__rojito
                 {
-                    color: red;
+                    -webkit-text-stroke: 4px red;
+                    color: transparent;
                 }
 .titulo__img
                 {   
@@ -304,6 +304,9 @@ ul.navega li    {
                 {
                 font-size: 30px;
                 text-decoration:underline red 5px;
+                font-family: 'Shrikhand', cursive;
+                color: white;
+                -webkit-text-stroke: 1px red;
                 }
 .copyright
                 {
