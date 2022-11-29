@@ -16,7 +16,7 @@ app.get("/hamilton",(req,res) => res.sendFile(path.join(__dirname,"views","hamil
 app.get("/hopper",(req,res) => res.sendFile(path.join(__dirname,"views","hopper.html")))
 app.get("/lovelace",(req,res) => res.sendFile(path.join(__dirname,"views","lovelace.html")))
 app.get("/turing",(req,res) => res.sendFile(path.join(__dirname,"views","turing.html")))
-app.get("/404",(req,res) => res.sendFile(path.join(__dirname,"views","404.html")))
+app.get("*",(req,res) => res.sendFile(path.join(__dirname,"views","404.html")))
 
 
 

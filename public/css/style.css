@@ -256,6 +256,16 @@ body
                 position: relative;
                 bottom: 3.5em;
                 }
+.center__img__404
+                {
+                position: relative;
+                text-align: center;
+                bottom: 70px;
+                }
+.img__404
+                {
+                width: 320px;
+                }
 .link__color
                 {
                     font-size:37px ;
@@ -301,6 +311,18 @@ ul.navega li    {
                 font-size: 25px;
                 font-family: cursive;
                 color:white
+                }
+.home__404
+                {
+                position: relative;
+                text-align: center;
+                
+                }
+.link__404
+                {
+                    font-size:75px ;
+                    -webkit-text-stroke: 0.5px white;
+                    color: red; 
                 }
 .footer__estilo
                 {
