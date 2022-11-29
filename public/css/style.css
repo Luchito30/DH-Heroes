@@ -205,6 +205,31 @@ body
                     position: relative;
                     bottom: 50px;
                 }
+.center__img__love
+                {
+                position: relative;
+                text-align: center;
+                bottom: 65px;
+                }
+.love__img
+                {
+                width: 160px;
+                border-top-width: 10px;
+                border-right-width: 10px;
+                border-bottom-width: 10px;
+                border-left-width: 10px;
+                border-top-style: solid;
+                border-right-style: solid;
+                border-bottom-style: solid;
+                border-left-style: solid;
+                border-color: black;
+                border-radius: 50%
+                }
+#love
+                {
+                position: relative;
+                bottom: 58px;
+                }
 .link__color
                 {
                     color: white;
