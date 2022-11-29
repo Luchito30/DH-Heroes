@@ -155,6 +155,31 @@ body
                 position:relative;
                 bottom: 60px;
                 }
+.center__img__hami
+                {
+                position: relative;
+                text-align: center;
+                bottom: 65px;
+                }
+.hami__img
+                {
+                width: 220px;
+                border-top-width: 10px;
+                border-right-width: 10px;
+                border-bottom-width: 10px;
+                border-left-width: 10px;
+                border-top-style: solid;
+                border-right-style: solid;
+                border-bottom-style: solid;
+                border-left-style: solid;
+                border-color: black;
+                border-radius: 20%
+                }
+#hami
+                {
+                position: relative;
+                bottom: 50px;
+                }
 .link__color
                 {
                     color: white;
@@ -172,8 +197,11 @@ ul.navega li    {
                     position: relative;
                     text-align: center;
                     bottom: 45px;
-                    background-color: black;
                     letter-spacing: 5px;
+                }
+#color
+                {
+                    background-color: black;
                 }
 .info
                 {
@@ -198,5 +226,6 @@ ul.navega li    {
                 }
 .footer__estilo
                 {
+                width: 500px;
                 background-color: black;
                 }
