@@ -180,6 +180,31 @@ body
                 position: relative;
                 bottom: 50px;
                 }
+.center__img__hopp
+                {
+                position: relative;
+                text-align: center;
+                bottom: 65px;
+                }
+.hopp__img
+                {
+                width: 330px;
+                border-top-width: 10px;
+                border-right-width: 10px;
+                border-bottom-width: 10px;
+                border-left-width: 10px;
+                border-top-style: solid;
+                border-right-style: solid;
+                border-bottom-style: solid;
+                border-left-style: solid;
+                border-color: black;
+                border-radius: 30%
+                }
+#hopp
+                {
+                    position: relative;
+                    bottom: 50px;
+                }
 .link__color
                 {
                     color: white;
